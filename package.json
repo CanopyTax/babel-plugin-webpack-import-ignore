@@ -1,0 +1,5 @@
+{
+  "name": "babel-plugin-webpack-import-ignore",
+  "main": "src/babel-plugin-webpack-import-ignore.js",
+  "packageManager": "yarn@4.9.1"
+}
